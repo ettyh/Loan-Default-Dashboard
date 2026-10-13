@@ -39,16 +39,6 @@ Power BI Desktop · Power Query · DAX
 
 [Credit Risk Dataset](https://www.kaggle.com/datasets/laotse/credit-risk-dataset) by laotse on Kaggle: 32,581 loan records with 12 columns, including borrower age, income, home ownership, loan purpose, loan grade, loan amount, interest rate and loan status (default or not).
 
-## Files
-
-```
-├── Loan Default Dashboard.pbix   Power BI file (open with Power BI Desktop)
-├── images/dashboard.png
-└── docs/
-    ├── data_cleaning.md
-    └── dax_measures.md
-```
-
 ## Limitations
 
 - The dashboard shows **associations, not causes**. For example, low-grade loans may default more partly because they also go to lower-income borrowers.

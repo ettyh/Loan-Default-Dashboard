@@ -26,9 +26,9 @@ Renters had a 31.6% default rate, compared with 12.6% for mortgage holders and 7
 
 ## What I did
 
-1. **Cleaned the data in Power Query.** I removed 172 invalid or duplicate rows (impossible ages and employment lengths, plus exact duplicates). I kept rows with missing interest rates to avoid losing 10% of the data. Details: [`docs/data_cleaning.md`](docs/data_cleaning.md)
+1. **Cleaned the data in Power Query.** I removed 172 invalid or duplicate rows (impossible ages and employment lengths, plus exact duplicates). I kept rows with missing interest rates to avoid losing 10% of the data. Details: [`data_cleaning.md`](data_cleaning.md)
 2. **Engineered features.** I created `Income Band`, `Age Group` and `Loan Outcome` columns with conditional logic.
-3. **Wrote DAX measures** for Total Loans, Defaulted Loans, Default Rate, Avg Loan Amount and Avg Interest Rate. Details: [`docs/dax_measures.md`](docs/dax_measures.md)
+3. **Wrote DAX measures** for Total Loans, Defaulted Loans, Default Rate, Avg Loan Amount and Avg Interest Rate. Details: [`dax_measures.md`](dax_measures.md)
 4. **Built a one-page dashboard** with 4 KPI cards, 4 charts and 2 slicers (Age Group, Previous Default) that filter every visual at once.
 
 ## Tools

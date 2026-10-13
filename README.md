@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analysing **32,409 personal loans** to find which borrower and loan characteristics are linked to a higher risk of default.
 
-![Loan Default Risk Dashboard].(https://github.com/ettyh/Loan-Default-Dashboard/blob/main/Screenshot%20of%20Dashboard.png).
+![Loan Default Risk Dashboard](https://github.com/ettyh/Loan-Default-Dashboard/blob/main/Screenshot%20of%20Dashboard.png)
 
 **Overall default rate: 21.87%** (about 1 in 5 loans).
 
